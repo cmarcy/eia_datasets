@@ -1,0 +1,4 @@
+step 1: download zip files and save them in the inputs/zips directory
+download files from: 
+https://www.eia.gov/electricity/data/eia860/
+https://www.eia.gov/electricity/data/eia923/
